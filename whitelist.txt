@@ -1,0 +1,5 @@
+! Tested with pfBlockerNG version 3.1.0
+! Initiated after noticing that Bitwarden could not login from the firefox add-on
+! Testing some entries at the moment
+! Will update this list in the future
+.incoming.telemetry.mozilla.org
